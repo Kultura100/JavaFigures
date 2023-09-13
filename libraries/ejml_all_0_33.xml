@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="ejml-all-0.33">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jars/ejml-all-0.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/ejml-cdense-0.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/ejml-core-0.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/ejml-ddense-0.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/ejml-dsparse-0.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/ejml-fdense-0.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/ejml-simple-0.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/ejml-zdense-0.33.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
